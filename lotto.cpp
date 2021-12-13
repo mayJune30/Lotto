@@ -14,7 +14,7 @@ int main()
 	srand((unsigned int)time(0)); // time seed
 
 	int itemp, ix, iy;
-	for (int i = 0; i < 45; i++)
+	for (int i = 0; i < 999; i++)
 	{
 		ix = rand() % 45;
 		iy = rand() % 45;
